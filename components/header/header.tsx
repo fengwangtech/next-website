@@ -24,6 +24,13 @@ export default function Header() {
               <a href="/d3/pieChart">Pie Chart</a>
             </div>
           </div>
+          <div className="menu dropdown">
+            <span className='downArrow'>Helpers</span>
+            <div className="dropdown-content">
+              <a href="/helpers/imageViewer">Image viewer</a>
+              <a href="/helpers/loadfile">Load file</a>
+            </div>
+          </div>
         </div>
         </div>
       </div>
