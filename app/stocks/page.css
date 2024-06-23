@@ -1,0 +1,14 @@
+.StyledLetter
+{
+  margin: 4px;
+  padding: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  text-underline-position: under;
+}
+
+.StyledLetter:hover
+{
+  box-shadow: 5px 5px 5px #aaaaaa;
+  border: 1px solid gray;
+}
