@@ -31,6 +31,12 @@ export default function Header() {
               <a href="/helpers/loadfile">Load file</a>
             </div>
           </div>
+          <div className="menu dropdown">
+            <span className='downArrow'>Maps</span>
+            <div className="dropdown-content">
+              <a href="/maps/leaflet">Leaflet</a>
+            </div>
+          </div>
         </div>
         </div>
       </div>
